@@ -34,7 +34,7 @@ The HTML file defines the structure of the page:
 The CSS file styles the page:
 
 It uses Flexbox to arrange the images responsively.
-The header, h1 is styled with a font, shadow, and borders.
+The header, h1, is styled with a font, shadow, and borders.
 The images are given a width and height with a transition effect applied on hover.
 
 ## How to Use
