@@ -15,7 +15,7 @@
 
 1. Clone the repository or download the files from GitHub.
     ```bash
-    git clone https://github.com/your-username/life-in-the-wild.git
+    git clone https://github.com/Abdulrahman843/lifeInTheWild.git
     ```
    
 2. Open the `index.html` file in your preferred web browser to view the project.
@@ -33,8 +33,8 @@ The HTML file defines the structure of the page:
 ### `styles.css`
 The CSS file styles the page:
 
-It uses flexbox to arrange the images responsively.
-The header (<h1>) is styled with a font, shadow, and borders.
+It uses Flexbox to arrange the images responsively.
+The header, h1 is styled with a font, shadow, and borders.
 The images are given a width and height with a transition effect applied on hover.
 
 ## How to Use
